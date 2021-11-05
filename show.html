@@ -8,7 +8,7 @@
             href="https://fonts.googleapis.com/css?family=Megrim|Nunito+Sans:400,900"
             rel="stylesheet"
         />
-        <title>App</title>
+        <title>Data</title>
         <style>
             *,
             *::before,
@@ -35,10 +35,6 @@
                 background: linear-gradient(to bottom right, #9be15d, #00e3ae);
             }
 
-            label {
-                font-size: 1.8rem;
-            }
-
             .container {
                 display: flex;
                 flex-direction: column;
@@ -51,26 +47,23 @@
             }
 
             .main__title {
-                font-size: 3rem;
+                font-size: 5rem;
                 margin-bottom: 5rem;
+            }
+
+            .employee__label {
+                font-size: 1.6rem;
             }
         </style>
     </head>
 
     <body>
         <section class="container">
-            <h1 class="main__title">Busqueda de empleados</h1>
-            <form method="POST" action="/showdata" id="form" class="validate">
-                <div class="form-field">
-                    <label for="dni">Introduce el DNI</label>
-                    <input type="text" name="dni" id="dni" required />
-                    <label for="pass">Introduce contraseña</label>
-                    <input type="password" name="pass" id="pass" required />
-                    <input type="submit" value="Buscar" />
-                </div>
-            </form>
-
-            <a href="/signuprrhh.html">Soy RRHH</a>
+            <h1 class="main__title">Empleado</h1>
+            <p class="employee__label">Dni: {%DNI%}</p>
+            <p class="employee__label">Nombre: {%NAME%}</p>
+            <p class="employee__label">Apellidos: {%LASTNAME%}</p>
+            <p class="employee__label">Email: {%EMAIL%}</p>
         </section>
     </body>
 </html>

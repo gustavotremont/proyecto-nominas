@@ -1,0 +1,382 @@
+[
+    {
+        "_id": {
+            "$oid": "61842c26fb1273333c51f24e"
+        },
+        "dni": "14308480L",
+        "nombre": "Alicia",
+        "apellidos": "Rodriguez",
+        "irpf": 15,
+        "email": "aliciarod@gmail.com",
+        "contraseña": "alirodgon123",
+        "tipoUsuario": 0,
+        "nominas": [
+            {
+                "salario": 2500,
+                "fecha": "01/01/2021"
+            },
+            {
+                "salario": 2500,
+                "fecha": "01/02/2021"
+            },
+            {
+                "salario": 2500,
+                "fecha": "01/03/2021"
+            },
+            {
+                "salario": 2500,
+                "fecha": "01/04/2021"
+            },
+            {
+                "salario": 2500,
+                "fecha": "01/05/2021"
+            },
+            {
+                "salario": 2500,
+                "fecha": "01/06/2021"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "61842d50fb1273333c51f24f"
+        },
+        "dni": "13289467K",
+        "nombre": "Nuria",
+        "apellidos": "Costa",
+        "irpf": 15,
+        "email": "nuricos@gmail.com",
+        "contraseña": "nuricos123",
+        "tipoUsuario": 0,
+        "nominas": [
+            {
+                "salario": 2000,
+                "fecha": "01/01/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/02/2021"
+            },
+            {
+                "salario": 2500,
+                "fecha": "01/03/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/04/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/05/2021"
+            },
+            {
+                "salario": 2500,
+                "fecha": "01/06/2021"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "61842d77fb1273333c51f250"
+        },
+        "dni": "13233367K",
+        "nombre": "Juan",
+        "apellidos": "Vazquez",
+        "irpf": 15,
+        "email": "juanvaz@gmail.com",
+        "contraseña": "juanvaz123",
+        "tipoUsuario": 0,
+        "nominas": [
+            {
+                "salario": 2000,
+                "fecha": "01/01/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/02/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/03/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/04/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/05/2021"
+            },
+            {
+                "salario": 2500,
+                "fecha": "01/06/2021"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "61842e0bfb1273333c51f251"
+        },
+        "dni": "13222367K",
+        "nombre": "Laura",
+        "apellidos": "Ruiz",
+        "irpf": 15,
+        "email": "lauraru@gmail.com",
+        "contraseña": "lauraru123",
+        "tipoUsuario": 1,
+        "salarioExtra": [
+            {
+                "salario": 2200,
+                "fecha": "01/01/2021"
+            },
+            {
+                "salario": 2200,
+                "fecha": "01/02/2021"
+            },
+            {
+                "salario": 2200,
+                "fecha": "01/03/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/04/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/05/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/06/2021"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "61842e3bfb1273333c51f252"
+        },
+        "dni": "13222367O",
+        "nombre": "Pedro",
+        "apellidos": "Gimenez",
+        "irpf": 15,
+        "email": "pedrogim@gmail.com",
+        "contraseña": "pedrogim123",
+        "tipoUsuario": 0,
+        "nominas": [
+            {
+                "salario": 2000,
+                "fecha": "01/01/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/02/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/03/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/04/2021"
+            },
+            {
+                "salario": 2500,
+                "fecha": "01/05/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/06/2021"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "61842e6bfb1273333c51f253"
+        },
+        "dni": "43222367K",
+        "nombre": "Marta",
+        "apellidos": "Lopez",
+        "irpf": 15,
+        "email": "martalop@gmail.com",
+        "contraseña": "martalope123",
+        "tipoUsuario": 1,
+        "nominas": [
+            {
+                "salario": 2000,
+                "fecha": "01/01/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/02/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/03/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/04/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/05/2021"
+            },
+            {
+                "salario": 2500,
+                "fecha": "01/06/2021"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "61842e8afb1273333c51f254"
+        },
+        "dni": "43222367H",
+        "nombre": "Ramon",
+        "apellidos": "Alonso",
+        "irpf": 15,
+        "email": "ramonalo@gmail.com",
+        "contraseña": "ramonalo123",
+        "tipoUsuario": 1,
+        "nominas": [
+            {
+                "salario": 2000,
+                "fecha": "01/01/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/02/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/03/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/04/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/05/2021"
+            },
+            {
+                "salario": 2500,
+                "fecha": "01/06/2021"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "61842eb2fb1273333c51f255"
+        },
+        "dni": "11122233L",
+        "nombre": "Luis",
+        "apellidos": "Garcia",
+        "irpf": 15,
+        "email": "luisgarci@gmail.com",
+        "contraseña": "luisgarci567",
+        "tipoUsuario": 0,
+        "nominas": [
+            {
+                "salario": 2000,
+                "fecha": "01/01/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/02/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/03/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/04/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/05/2021"
+            },
+            {
+                "salario": 2500,
+                "fecha": "01/06/2021"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "61842edffb1273333c51f256"
+        },
+        "dni": "14287452P",
+        "nombre": "Cristina",
+        "apellidos": "Rodriguez",
+        "irpf": 15,
+        "email": "crisrod@gmail.com",
+        "contraseña": "crisrod123",
+        "tipoUsuario": 0,
+        "nominas": [
+            {
+                "salario": 2000,
+                "fecha": "01/01/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/02/2021"
+            },
+            {
+                "salario": 2500,
+                "fecha": "01/03/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/04/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/05/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/06/2021"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "61842f9afb1273333c51f257"
+        },
+        "dni": "26487462L",
+        "nombre": "Manuel",
+        "apellidos": "Martinez",
+        "irpf": 15,
+        "email": "manuelmar@gmail.com",
+        "contraseña": "crisrod123",
+        "tipoUsuario": 0,
+        "nominas": [
+            {
+                "salario": 2000,
+                "fecha": "01/01/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/02/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/03/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/04/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/05/2021"
+            },
+            {
+                "salario": 2000,
+                "fecha": "01/06/2021"
+            }
+        ]
+    }
+]

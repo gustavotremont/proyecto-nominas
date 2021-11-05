@@ -59,18 +59,16 @@
 
     <body>
         <section class="container">
-            <h1 class="main__title">Busqueda de empleados</h1>
-            <form method="POST" action="/showdata" id="form" class="validate">
+            <h1 class="main__title">Busqueda de RRHH</h1>
+            <form method="POST" action="/showrrhh" id="form" class="validate">
                 <div class="form-field">
-                    <label for="dni">Introduce el DNI</label>
-                    <input type="text" name="dni" id="dni" required />
-                    <label for="pass">Introduce contraseña</label>
-                    <input type="password" name="pass" id="pass" required />
+                    <label for="fullName">Introduce el DNI</label>
+                    <input type="text" name="fullName" id="fullName" required />
                     <input type="submit" value="Buscar" />
                 </div>
             </form>
 
-            <a href="/signuprrhh.html">Soy RRHH</a>
+            <a href="./signuprrhh.html">Soy RRHH</a>
         </section>
     </body>
 </html>
